@@ -3,3 +3,6 @@ Shylock
 Antonio
 Portia
 Jessica
+Launcelot
+Lorenzo
+Gratiano
